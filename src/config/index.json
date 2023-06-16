@@ -26,7 +26,7 @@
     "title": "Let we find a",
     "subtitle": "Charging Station.",
     "description": "Our mission is to make charging electric cars easier, cheaper, and more accessible to everyone. Join us and help accelerate the transition to sustainable transportation.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "img": "/assets/images/charger.jpg",
     "primaryAction": {
       "text": "Join as a Driver",
       "href": "#"
@@ -42,12 +42,12 @@
       {
         "title": "Mobile App for Drivers",
         "description": "Find affordable charging options near you. Pay half the price compared to regular charging stations and discover the freedom to choose any road you wish to travel.",
-        "img": "/assets/images/product1.jpg"
+        "img": "/assets/images/product1.png"
       },
       {
         "title": "Web App for Hosts!",
         "description": "As a host, offer your place as a charging station and earn money. Make more than your electricity bill by just plugging in a car. Help expand the charging network to places it's never reached before.",
-        "img": "/assets/images/product2.jpg"
+        "img": "/assets/images/product2.png"
       }
     ]
   },

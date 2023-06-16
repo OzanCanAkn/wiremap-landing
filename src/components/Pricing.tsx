@@ -26,7 +26,7 @@ const Pricing = () => {
             <iframe
               width="560"
               height="315"
-              src="https://www.youtube.com/embed/W9AdMY25Ilk"
+              src="https://www.youtube.com/embed/K5iUO5Hjsl4"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
